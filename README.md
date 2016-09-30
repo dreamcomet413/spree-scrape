@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Spree Scrape
 ================
 
@@ -51,4 +50,3 @@ License
 -------
 =======
 # spree-scrape
->>>>>>> 98aa69d177b320bb0b3052938ba4851a00144c5f
