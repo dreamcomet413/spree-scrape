@@ -45,3 +45,25 @@ group :development do
   gem 'spring'
 end
 
+
+gem 'bootstrap-sass'
+gem 'devise'
+gem 'pg'
+gem 'pundit'
+
+group :development do
+  gem 'better_errors'
+  gem 'foreman'
+  gem 'rails_apps_pages'
+  gem 'rails_layout'
+end
+
+group :development, :test do
+  gem 'pry-rails'
+  gem 'pry-rescue'
+end
+
+group :production do
+  gem 'rails_12factor'
+end
+
